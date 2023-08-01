@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\CST-350\\Act_2\\Act_2\\Act_2.csproj": {}
+    "D:\\Github\\CST-350\\Topic 2\\Act_2\\Act_2\\Act_2.csproj": {}
   },
   "projects": {
-    "D:\\Github\\CST-350\\Act_2\\Act_2\\Act_2.csproj": {
+    "D:\\Github\\CST-350\\Topic 2\\Act_2\\Act_2\\Act_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\CST-350\\Act_2\\Act_2\\Act_2.csproj",
+        "projectUniqueName": "D:\\Github\\CST-350\\Topic 2\\Act_2\\Act_2\\Act_2.csproj",
         "projectName": "Act_2",
-        "projectPath": "D:\\Github\\CST-350\\Act_2\\Act_2\\Act_2.csproj",
+        "projectPath": "D:\\Github\\CST-350\\Topic 2\\Act_2\\Act_2\\Act_2.csproj",
         "packagesPath": "C:\\Users\\APR Services\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\CST-350\\Act_2\\Act_2\\obj\\",
+        "outputPath": "D:\\Github\\CST-350\\Topic 2\\Act_2\\Act_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
