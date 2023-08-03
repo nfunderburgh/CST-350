@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfLJrglV63WMI1Lou4sf+yEzd9rALzRXZRarhczodAavgmG3PozP3ADjjfaf6RGQ2A+Bxril2xYaRUtb0HSFIQ==",
+  "dgSpecHash": "Fx55BUuDCE0u9Qh3juAqxceAaWZbY81xf9x6YBOFLqNEKCtMAGY3moqEtNx34VwcPXfm5Ou1vJJPvbga46WoAA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\CST-350\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
+  "projectFilePath": "D:\\Github\\CST-350\\Topic 2\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APR Services\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\APR Services\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

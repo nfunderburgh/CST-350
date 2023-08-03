@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RegisterAndLoginApp
 build_property.RootNamespace = RegisterAndLoginApp
-build_property.ProjectDir = D:\Github\CST-350\RegisterAndLoginApp\RegisterAndLoginApp\
+build_property.ProjectDir = D:\Github\CST-350\Topic 2\RegisterAndLoginApp\RegisterAndLoginApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Github\CST-350\RegisterAndLoginApp\RegisterAndLoginApp
+build_property.MSBuildProjectDirectory = D:\Github\CST-350\Topic 2\RegisterAndLoginApp\RegisterAndLoginApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Home/Index.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Home/Privacy.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Login/Index.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Login/LoginFailure.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Login/LoginFailure.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5GYWlsdXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Login/LoginSuccess.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Login/LoginSuccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5TdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Shared/Error.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/_ViewImports.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/_ViewStart.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/CST-350/RegisterAndLoginApp/RegisterAndLoginApp/Views/Shared/_Layout.cshtml]
+[D:/Github/CST-350/Topic 2/RegisterAndLoginApp/RegisterAndLoginApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gxbz9ox18i

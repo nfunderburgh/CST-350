@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\CST-350\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {}
+    "D:\\Github\\CST-350\\Topic 2\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {}
   },
   "projects": {
-    "D:\\Github\\CST-350\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {
+    "D:\\Github\\CST-350\\Topic 2\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\CST-350\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
+        "projectUniqueName": "D:\\Github\\CST-350\\Topic 2\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
         "projectName": "RegisterAndLoginApp",
-        "projectPath": "D:\\Github\\CST-350\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
+        "projectPath": "D:\\Github\\CST-350\\Topic 2\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
         "packagesPath": "C:\\Users\\APR Services\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\CST-350\\RegisterAndLoginApp\\RegisterAndLoginApp\\obj\\",
+        "outputPath": "D:\\Github\\CST-350\\Topic 2\\RegisterAndLoginApp\\RegisterAndLoginApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
