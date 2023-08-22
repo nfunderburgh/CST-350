@@ -11,6 +11,7 @@ namespace Act_2.Models
         public string Name { get; set; }
 
         [DataType(DataType.Currency)]
+        [DisplayName("Cost to customer")]
         public decimal Price { get; set; }
         [DisplayName("What you get...")]
         public string Description { get; set; }

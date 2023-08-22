@@ -1,5 +1,6 @@
 ﻿using Act_2.Models;
 using Act_2.Services;
+using CRUDSQL.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CRUDSQL.Controllers
@@ -13,36 +14,60 @@ namespace CRUDSQL.Controllers
 
 
         [HttpGet]
-        public ActionResult<IEnumerable<ProductModel>> Index()
+        [ProducesDefaultResponseType(typeof(List<ProductDTO>))]
+        public IEnumerable<ProductDTO> Index()
         {
-            return repository.AllProducts();
+            List<ProductModel> productList = repository.AllProducts();
+            IEnumerable<ProductDTO> productDTOList = from p in productList
+                                                     select
+                                                     new ProductDTO(p.Id, p.Name, p.Price, p.Description);
+            return productDTOList;
         }
 
         [HttpGet("searchresults/{searchTerm}")]
-        public ActionResult<IEnumerable<ProductModel>> SearchResults(string searchTerm)
+        public IEnumerable<ProductDTO> SearchResults(string searchTerm)
         {
             List<ProductModel> productList = repository.SearchProducts(searchTerm);
-            return productList;
+
+            List<ProductDTO> productDTOList = new List<ProductDTO>();
+
+            foreach(ProductModel p in productList)
+            {
+                productDTOList.Add(new ProductDTO(p.Id, p.Name, p.Price, p.Description));
+            }
+            return productDTOList;
         }
 
         [HttpGet("showoneproduct/{Id}")]
-        public ActionResult <ProductModel> ShowOneProduct(int Id)
+        [ProducesDefaultResponseType(typeof(ProductDTO))]
+        public ActionResult <ProductDTO> ShowOneProduct(int Id)
         {
-            return repository.GetProductById(Id);
+            
+            ProductModel product = repository.GetProductById(Id);
+            ProductDTO productDTO = new ProductDTO(product.Id, product.Name, product.Price, product.Description);
+
+            return productDTO;
         }
 
         [HttpPut("processedit")]
-        public ActionResult<IEnumerable<ProductModel>> ProcessEdit(ProductModel product)
+        [ProducesDefaultResponseType(typeof(List<ProductDTO>))]
+        public IEnumerable<ProductDTO> ProcessEdit(ProductModel product)
         {
             repository.update(product);
-            return repository.AllProducts();
+            List<ProductModel> productList = repository.AllProducts();
+            IEnumerable<ProductDTO> productDTOList = from p in productList
+                                                     select new ProductDTO(p.Id, p.Name, p.Price, p.Description);
+            return productDTOList;
         }
 
         [HttpPut("ProcessEditReturnOneItem")]
-        public ActionResult<ProductModel> ProcessEditReturnOneItem(ProductModel product)
+        [ProducesDefaultResponseType(typeof(ProductDTO))]
+        public ActionResult<ProductDTO> ProcessEditReturnOneItem(ProductModel product)
         {
             repository.update(product);
-            return repository.GetProductById(product.Id);
+            ProductModel updatedProduct = repository.GetProductById(product.Id);
+            ProductDTO productDTO = new ProductDTO(product.Id, product.Name, product.Price, product.Description);
+            return productDTO;
         }
     }
 }
