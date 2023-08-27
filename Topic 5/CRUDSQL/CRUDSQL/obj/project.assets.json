@@ -9506,11 +9506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\CST-350\\Topic 4\\CRUDSQL\\CRUDSQL\\CRUDSQL.csproj",
+      "projectUniqueName": "D:\\Github\\CST-350\\Topic 5\\CRUDSQL\\CRUDSQL\\CRUDSQL.csproj",
       "projectName": "CRUDSQL",
-      "projectPath": "D:\\Github\\CST-350\\Topic 4\\CRUDSQL\\CRUDSQL\\CRUDSQL.csproj",
+      "projectPath": "D:\\Github\\CST-350\\Topic 5\\CRUDSQL\\CRUDSQL\\CRUDSQL.csproj",
       "packagesPath": "C:\\Users\\APR Services\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\CST-350\\Topic 4\\CRUDSQL\\CRUDSQL\\obj\\",
+      "outputPath": "D:\\Github\\CST-350\\Topic 5\\CRUDSQL\\CRUDSQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
