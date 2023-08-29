@@ -1,0 +1,12 @@
+2023-08-28 15:15:58.1998 INFO Entering the ProcessLogin method.
+2023-08-28 15:15:58.2589 INFO Parameter: Username = Test Password = 123
+2023-08-28 15:15:59.6563 INFO Login Success
+2023-08-28 15:16:10.6256 INFO Entering the ProcessLogin method.
+2023-08-28 15:16:10.6256 INFO Parameter: Username = WorkPlease Password = Nope
+2023-08-28 15:16:10.6256 INFO Login Failure
+2023-08-28 15:17:36.5977 INFO Entering the ProcessLogin method.
+2023-08-28 15:17:36.6560 INFO Parameter: Username = Test Password = 123
+2023-08-28 15:17:37.0095 INFO Login Success
+2023-08-28 15:18:30.2415 INFO Entering the ProcessLogin method.
+2023-08-28 15:18:30.2415 INFO Parameter: Username = Test Password = 13423414
+2023-08-28 15:18:30.2468 INFO Login Failure
