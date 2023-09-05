@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmVU7IRAETCxoAXxBKZc4EFrpAS6NptMMY2NPRWOqplz5Xj03Ke2KlRr2SHw9XUPnGKpuTyR1Pwwl5CnBMLiWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\CST-350\\Topic 7\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APR Services\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\APR Services\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
