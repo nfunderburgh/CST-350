@@ -1,0 +1,17 @@
+D:\Github\CST-350\Topic 8\LINQActors\bin\Debug\net6.0\LINQActors.exe
+D:\Github\CST-350\Topic 8\LINQActors\bin\Debug\net6.0\LINQActors.deps.json
+D:\Github\CST-350\Topic 8\LINQActors\bin\Debug\net6.0\LINQActors.runtimeconfig.json
+D:\Github\CST-350\Topic 8\LINQActors\bin\Debug\net6.0\LINQActors.dll
+D:\Github\CST-350\Topic 8\LINQActors\bin\Debug\net6.0\LINQActors.pdb
+D:\Github\CST-350\Topic 8\LINQActors\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.csproj.AssemblyReference.cache
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.AssemblyInfoInputs.cache
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.AssemblyInfo.cs
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.csproj.CoreCompileInputs.cache
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.csproj.CopyComplete
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.dll
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\refint\LINQActors.dll
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.pdb
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\LINQActors.genruntimeconfig.cache
+D:\Github\CST-350\Topic 8\LINQActors\obj\Debug\net6.0\ref\LINQActors.dll
