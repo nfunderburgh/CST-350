@@ -35,6 +35,19 @@
             }
 
             Console.ReadLine();
+
+            var bStudents =
+             from indivialScore in scores
+             where indivialScore > 80 && indivialScore < 89
+             orderby indivialScore
+             select indivialScore;
+
+            foreach (var indivialScore in bStudents)
+            {
+                Console.WriteLine("One of the B students scored {0}", indivialScore);
+            }
+
+            Console.ReadLine();
         }
     }
 }
